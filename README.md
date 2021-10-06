@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KeerthanaGopalsamy fresher 
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning web development both front end and back end.
+- 🌱 completed web development course at internshala.
 - 💞️ I’m looking to get a job on web development and dotnet 
 - 📫 How to reach me 
                    mobile : +917358582681 
