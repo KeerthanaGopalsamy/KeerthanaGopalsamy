@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @KeerthanaGopalsamy fresher 
+- 👋 Hi, I’m @KeerthanaGopalsamy
 - 👀 I’m interested in programming
 - 🌱 completed web development course at internshala.
-- 💞️ I’m looking to get a job on web development and dotnet 
-- 📫 How to reach me 
-                   mobile : +917358582681 
-                 email id : keerthanagopalsamy2595@gmail.com
 
 <!---
 KeerthanaGopalsamy/KeerthanaGopalsamy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
